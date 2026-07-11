@@ -23,7 +23,9 @@ Moka United FinTech Hackathon · "Hack the Idea" 2026 · Ekip **Embar** — Bara
 | ![chat](docs/chat.png) | ![admin](docs/admin.png) | ![live](docs/live.png) |
 | WhatsApp asistanı, sesli + yazılı | 5 dişli iş etkisi + Moka ölçeği | Gerçek zamanlı işlem nabzı |
 
-> Demo videosu: _(link eklenecek)_
+> **Demo videosu:** https://docs.google.com/videos/d/1DAQTICxkckMFKlgmnli6NN1KvfPjOVdbXE7wOHxVYjc/edit?usp=sharing
+>
+> **Sunum:** https://docs.google.com/presentation/d/1cHnhxzo72pk-q7buEnjF9NHn3E5hGhzo/edit?usp=sharing
 
 ---
 
